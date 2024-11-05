@@ -114,7 +114,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import dummyProducts from "@/dummy-products.json";
 
 interface Product {
   id: number;
