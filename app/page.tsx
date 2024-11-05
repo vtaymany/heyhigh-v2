@@ -161,6 +161,19 @@ const productData: ProductData = {
         brand: { data: { attributes: { name: "PlugPlay" } } },
       },
     },
+    {
+      id: 244227,
+      attributes: {
+        name: "Skywalker OG (H) | 1g pod | Stiiizy",
+        main_image:
+          "https://tymber-blaze-products.imgix.net/f759f174-c256-42ad-b0bb-ed1c37a9f6a3.jpeg",
+        thc: { amount: "87.64" },
+        unit_price: { amount: 3000 },
+        discount_price: { amount: 2700 },
+        flower_type: "Hybrid",
+        brand: { data: { attributes: { name: "Stiiizy" } } },
+      }
+    }
     // Add more product data here as needed
   ],
 };
